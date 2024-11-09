@@ -56,4 +56,13 @@
 padding: 0;
 text-align: center;
 }
+footer {
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer span {
+  font-size: 14px;
+}
+
 }
